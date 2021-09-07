@@ -1,0 +1,19 @@
+.profile {
+  grid-area:c;
+  background-color: cornflowerblue;
+  
+  
+}
+
+.item {
+  color:greenyellow;
+}
+
+.profile img {
+  width:1200px;
+}
+
+
+.posts {
+  color : yellow;
+}
